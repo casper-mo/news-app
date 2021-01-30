@@ -3,10 +3,10 @@ const header = () => {
   return (
     <header>
       <h1 className={styles.title}>
-        <span>WebDev</span> News
+        <span>Spaceflight</span> News
       </h1>
       <p className={styles.description}>
-        keep up to date with the latest web dev news
+        keep up to date with the latest Spaceflight news
       </p>
     </header>
   );
